@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.main-logo a h2 {
+    color: #fff;
+    font-size: 27px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+ul.nav a li {
+    color: #fff;
+    font-size: 21px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.mt-4 {
+    margin-top: 13.5rem !important;
+}
+#header_cta {
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.p-5.bg-primar.rounded-4 {
+    background: linear-gradient(45deg, black, transparent);
+}
+.rounded-4 {
+    border-radius: 1rem !important;
+}
+form.search {
+    width: 100%;
+    max-width: 50%;
+}
+.main {
+    background: #dbd9d947;
+}
+.search-area {
+    width: 100%;
+    height: auto;
+    padding: 22px 0px;
+    background-color: #f1f1f1;
+  }
+
+  .highlight {
+    border: 3px solid #ff5733 !important;
+    /* Orange highlight border */
+  }
+  .nav-link{
+    color: rgba(20,80,133); 
+  }
+  h5{
+    color: rgba(20,80,133);    
+    font-weight: 700; 
+    font-size: 18px;   
+  }
+  p{
+    color: #495057;    
+    font-weight: 700;
+    font-size: 12px;
+    height: 18px;
+  }
+  img.icon-img {
+    width: 20px;
+    padding-right: 4px;
+}
+div#myTabContent{
+    margin-top: 15px;
+}
+.footer-logo {
+    margin-top: 2rem;
+}
+.copyright {
+    padding-bottom: 2rem;
+}
+.social-link{
+    margin-top:-2rem;
+}
+.social-link ul li  {
+   list-style: none;
+    display: inline-flex;
+    margin-left: 1rem;
+    font-size: 23px;
+}
+ul.footer-nav {
+    border-bottom: 1px solid;
+}
+
+#status-message {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+}
+.success {
+    background-color: #d4edda;
+    color: #155724;
+}
+.error {
+    background-color: #f8d7da;
+    color: #721c24;
+}

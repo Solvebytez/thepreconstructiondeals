@@ -39,6 +39,9 @@ ul.nav a li {
         font-size:17px;
         margin-left:1rem;
     }
+    ul.nav a li{
+        font-size:17px;
+    }
 }
 #header_cta {
     -webkit-transform: translateY(-50%);

@@ -35,6 +35,10 @@ ul.nav a li {
     .mt-4 {
         margin-top: 1rem !important;
     }
+    .main-logo a h2 {
+        font-size:17px;
+        margin-left:1rem;
+    }
 }
 #header_cta {
     -webkit-transform: translateY(-50%);
